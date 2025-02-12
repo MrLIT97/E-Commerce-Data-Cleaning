@@ -9,7 +9,7 @@ A dirty E-commerce data gotten from [kaggle](https://www.kaggle.com/datasets/ole
 * Excel
 * Power BI
 
-### NB: Only Power Query shots will be provided here as all reference to python should be checked here. Most issues were detected in python.
+### NB: Only Power Query shots will be provided here as all reference to python should be checked [here](https://github.com/MrLIT97/E-Commerce-Data-Cleaning/blob/main/E-Commerce%20Data%20Cleaning.ipynb). Most issues were detected in python.
 
 ## Loading Data:
 * Python: Each of the 21 csv files in the dataset folder was loaded individually as a dataframe and stored in a list using the pandas library.
