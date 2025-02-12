@@ -26,7 +26,7 @@ The script was saved and then ran over all files in the dataset through micro to
 ![image](https://github.com/user-attachments/assets/51d1e6dc-0cac-44be-b86c-84a9a46722fe)
 ![image](https://github.com/user-attachments/assets/bc9cd25c-107e-44a5-a231-86b4502cebf1)
 
-This workbook was saved as [allecommerce] and its sheets were loaded into a Power BI for Power Query transformation. Power BI's Power Query was preferred for noticable flexibility (e.g the "enable load" feature)
+This workbook was saved as [allecommerce](https://github.com/MrLIT97/E-Commerce-Data-Cleaning/blob/main/allecommerce.xlsx) and its sheets were loaded into a Power BI for Power Query transformation. Power BI's Power Query was preferred for noticable flexibility (e.g the "enable load" feature)
 
 ![image](https://github.com/user-attachments/assets/8c589c40-353d-4713-a351-d41b201cee10)
 ![image](https://github.com/user-attachments/assets/bcc58ff5-bcfe-425a-87ca-3d3470242bf4)
@@ -172,4 +172,4 @@ To break the dataset free from Power BI, the table was copied from the "Data Vie
 
 ![image](https://github.com/user-attachments/assets/73d3c556-4c1b-4353-91fb-33990ebd4ceb)
 
-This clean data was then saved as xlsx in excel while the equivalent clean data in python was save as csv, which is available [here]
+This clean data was then saved as xlsx in excel while the equivalent clean data in python was save as csv, which is available [here](https://github.com/MrLIT97/E-Commerce-Data-Cleaning/blob/main/allecommerce_clean.csv).
